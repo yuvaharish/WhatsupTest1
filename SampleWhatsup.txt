@@ -1,3 +1,14 @@
+git comments
+git init
+git add .
+git commit -m "first"
+
+
 today i have learned the database
 git comments
 git init
+git add sampleshatsup.txt
+git commite second
+git remote add origin master
+git push
+
