@@ -1,3 +1,4 @@
+
 git comments
 git init
 git add .
@@ -11,4 +12,10 @@ git add sampleshatsup.txt
 git commite second
 git remote add origin master
 git push
+
+
+git comments
+git init
+git add .
+git commit -m "first"
 
