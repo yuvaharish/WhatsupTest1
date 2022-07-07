@@ -1,0 +1,3 @@
+today i have learned the database
+git comments
+git init
